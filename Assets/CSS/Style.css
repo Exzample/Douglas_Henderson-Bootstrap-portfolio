@@ -1,0 +1,94 @@
+* {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+body {
+  background: url('../Images/concrete_seamless.png');
+}
+
+.myHeader {
+  color: whitesmoke;
+  background-color: #4aaaa5;
+}
+
+a {
+  text-decoration: none;
+  font-size: 20px;
+  color: rgb(85, 85, 85);
+}
+
+a:hover {
+  color: #4aaaa5;
+  text-decoration: none;
+}
+
+button {
+  background-color: #4aaaa5 !important;
+  color: whitesmoke;
+}
+
+button:hover {
+  background-color: rgb(117, 117, 117) !important;
+}
+
+footer {
+  text-align: center;
+  height: 50px;
+  position: sticky;
+  margin-top: 120px;
+  bottom: 0;
+  background-color: #666666;
+  background-position: fixed bottom;
+  border-top: 5px solid #4aaaa5;
+  width: 100%;
+}
+
+.imageContainer {
+  margin: 20px;
+  display: inline-block;
+}
+
+.images {
+  margin: 2px;
+  width: 250px;
+  height: 250px;
+}
+
+.imageText {
+  background-color: #4aaaa5;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  text-align: center;
+  color: white;
+  width: 250px;
+  height: 50px;
+  position: relative;
+  bottom: 5px;
+  left: 2px;
+  font-size: 1em;
+  padding: 25px 0px 0px 0px;
+}
+
+
+/*
+.navbar {
+  background-color: white;
+  !important;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#bio {
+  margin-top: 70px;
+  margin-left: -30px;
+}
+.color-me {
+  color: rgb(orange) !important;
+  background-color: teal;
+}
+.color-me2 {
+  color: rgb(255, 255, 255) !important;
+}*/
+
+
+
+
+
+
